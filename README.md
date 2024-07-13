@@ -17,7 +17,6 @@ I aim to improve my skills in web development and learn new technologies that I 
 
 ### Other
 
-- I'm a game jam enthusiast and love participating in Ludum Dare.
 - When I'm not coding, I enjoy exploring new technologies and enhancing my skills.
 
 Feel free to reach out or check out my projects.
