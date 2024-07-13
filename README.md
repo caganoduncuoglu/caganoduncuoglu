@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Çağan! 👋
 
-<!--
-**caganoduncuoglu/caganoduncuoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineer with a degree in Computer Science & Engineering from Marmara University. I thrive on creative problem-solving and love tackling challenging projects. With a solid foundation in .NET and C#, I have experience in building robust WPF and WinForms desktop applications, as well as web apps using React. 
+I aim to improve my skills in web development and learn new technologies that I am currently not familiar with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Turkey
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cagan-oduncuoglu/)
+
+### 🔧 Skills & Technologies
+
+- **Languages:** C#, Java, C, JavaScript
+- **Frameworks:** .NET, .NET Core, React, WPF, WinForms
+- **Databases:** MSSQL, RealmDB
+- **Tools:** DevExpress, ARCGIS, IBM Maximo
+
+### Other
+
+- I'm a game jam enthusiast and love participating in Ludum Dare.
+- When I'm not coding, I enjoy exploring new technologies and enhancing my skills.
+
+Feel free to reach out or check out my projects.
